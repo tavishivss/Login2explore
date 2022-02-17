@@ -1,0 +1,14 @@
+{
+    "token": "90938867|-31948834457040330|90947401",
+    "cmd": "UPDATE",
+    "dbName": "Employee",
+    "rel": "Emp-rel",
+    "jsonStr": {
+       "1":{
+        "name": "Gargee Mishra",
+        "email_address":"gargee@gmail.com",
+        "mobile_number": 7098162348
+
+      }
+   }
+}
